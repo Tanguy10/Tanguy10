@@ -13,8 +13,8 @@ I'm a PhD student at [ISIR](https://www.isir.upmc.fr/) (Sorbonne Université), w
 
 ## 💼 Experience
 
-- **CEREA, École des Ponts** — (under the supervision of Sibo Cheng) - Research Intern · Neural operators, dimension reduction - [📄 Paper](https://arxiv.org/abs/2610.33668) · [💻 Code](https://github.com/Tanguy10/Transformer-DeepONets-for-the-radiative-transfer-equation)
-- **Waseda University, Tokyo** (under the supervision of Prof. Toyoizumi) — Research Intern · *Goal Threat*: assessing how dangerous a tactical situation is in football · [💻 Code](https://github.com/Tanguy10/goal-threat)
+- **CEREA, École des Ponts** - Research Intern, under the supervision of Sibo Cheng · Neural operators, dimension reduction - [📄 Paper](https://arxiv.org/abs/2610.33668) · [💻 Code](https://github.com/Tanguy10/Transformer-DeepONets-for-the-radiative-transfer-equation)
+- **Waseda University, Tokyo** - Research Intern, under the supervision of Prof. Toyoizumi · *Goal Threat*: assessing how dangerous a tactical situation is in football · [💻 Code](https://github.com/Tanguy10/goal-threat)
 
 ## 🎓 Education
 
