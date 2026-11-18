@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tanguy Azéma
 
-I'm a PhD student at [ISIR](https://www.isir.upmc.fr/) (Sorbonne Université), working on **world models for physical dynamical systems**.
+**PhD student at ISIR (Sorbonne Université) — World Models, Neural Operators & Sports Analytics.**
 
 ## 📰 News
 
@@ -9,7 +9,7 @@ I'm a PhD student at [ISIR](https://www.isir.upmc.fr/) (Sorbonne Université), w
 
 ## 🧠 About me
 
-I'm a PhD student at [ISIR](https://www.isir.upmc.fr/) (Sorbonne Université), working on **world models** and **neural operators**. I'm also drawn to **sports analytics**, where I like to use learned models to understand how a game unfolds. I graduated from École Polytechnique (X2022) and hold an M2 in IASD (AI, Systems & Data) from PSL University.
+I'm a PhD student at [ISIR](https://www.isir.upmc.fr/) (Sorbonne Université), working on **world models for physical dynamical systems**. I'm also drawn to **sports analytics**, where I like to use learned models to understand how a game unfolds. I graduated from École Polytechnique (X2022) and hold an M2 in IASD (AI, Systems & Data) from PSL University.
 
 ## 💼 Experience
 - **[ISIR](https://www.isir.upmc.fr/), Sorbonne Université** — PhD Student · World models for physical dynamical systems: learning latent representations to predict and simulate their evolution
