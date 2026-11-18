@@ -24,8 +24,9 @@ I'm a PhD student at [ISIR](https://www.isir.upmc.fr/) (Sorbonne Université), w
 ## 🧰 Skills
 
 **Languages:** Python · …
-**ML & Data Science:** PyTorch · … 
+**ML & Data Science:** PyTorch ·
+**Tools:** Git · Latex 
 
 ## ⚽ Interests
 
-Football (several years at national level), chess, gaming, ski.
+Football (several years at national level), Cross-country skiing, Chess, Gaming
