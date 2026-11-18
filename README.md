@@ -23,9 +23,21 @@ I'm a PhD student at [ISIR](https://www.isir.upmc.fr/) (Sorbonne Université), w
 
 ## 🧰 Skills
 
-**Languages:** Python · …
-**ML & Data Science:** PyTorch ·
-**Tools:** Git · Latex 
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+**ML & Data Science**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
 
 ## ⚽ Interests
 
